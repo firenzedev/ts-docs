@@ -1,11 +1,12 @@
 # Slide del corso su TypeScript
 
-## Basi
+## Giorno 1
 
-https://github.com/firenzedev/ts-docs/blob/main/TypeScript%20-%20Basi.pdf
+Slides: https://github.com/firenzedev/ts-docs/blob/main/TypeScript%20-%20Basi.pdf
+Codice: ./day1.zip
 
-## Advanced
+## Giorno 2
 
 
-## Inference and composite types
+## Giorno 3
 
