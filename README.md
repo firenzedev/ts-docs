@@ -3,7 +3,8 @@
 ## Giorno 1
 
 Slides: https://github.com/firenzedev/ts-docs/blob/main/TypeScript%20-%20Basi.pdf
-Codice: ./day1.zip
+
+Codice: https://github.com/firenzedev/ts-docs/blob/main/day1.zip
 
 ## Giorno 2
 
