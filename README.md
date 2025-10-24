@@ -14,3 +14,4 @@ Codice: https://github.com/firenzedev/ts-docs/blob/main/day2.zip
 
 ## Giorno 3
 
+Slides: https://github.com/firenzedev/ts-docs/blob/main/TypeScript%20-%20Concetti%20avanzati.pdf
